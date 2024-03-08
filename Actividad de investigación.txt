@@ -1,0 +1,29 @@
+Introducción:
+
+1) Podriamos utilizarlo al igual que se podria usar Block de Notas (notepad.exe) o Notepad++ como editores de TEXTO, pero
+la realidad es que es útil o necesario utilizar un editor de código como lo es Visual Studio Code donde te recomienda
+ciertas etiquetas, te ayuda con el auto-completado y ademas indica ciertas veces cuando estamos incertando mal una etiqueta ya sea escribiendo mal su sintaxis o bien mencionandola. Por otro lado un editor de código posee las herramientas
+para procesar el código o bien ejecutarlo.
+
+2) Las diferencias entre Front-End, Back-End y FullStack.
+El desarrollador Front-End por lo general trabaja sobre la planilla HTML, la estilizacion de la página y un poco con código y algoritmos de Javascript o algún otro lenguaje donde estas herramientas se logren visualizar en pantalla a modo
+estático, existen algunas herramientas con el manejo del DOM para cambiar un texto o un objeto frente a nuestro index.html
+pero al recargar nuevamente la misma, todo vuelve a su estado inicial.
+El desarrollador Back-End se encarga de trabajar en todo lo que es lado de Servidor, lo que el usuario no ve, palabras en ingles, código extraño, funciones complejas, etc, signos o caracteres como parentesis, corchetes y llaves para las funciones, métodos,etc. Ademas de realizar conexiones a base o bases de datos, realizar consultas, insertar informacion, editar o eliminar en una base de datos y/o tablas. Como tambien obtener informacion de otros servidores/páginas.
+El FullStack seria la combinacion o fusión entre el Front-End y el Back-End.
+
+Internet:
+
+1) El protocolo UDP... de salida?
+
+2) 100% si, el envio de un correo electrónico seria usando Internet, aunque podria desarrollarse un sistema de correo o mensajeria SIN INTERNET, como el uso de Intranet en un negocio/PYME como por ejemplo un turnero o sistema médico de atención a pacientes.
+
+3) La principal diferencia entre consultar los correos electrónicos por la web de gmail a visualizarlos desde la aplicación del celular es como se presenta la vista diferente desde un celular/movil a verlo en un cpu/portatil en la web gmail, luego algunas funciones avanzadas del sistema de correo. Utilizarian los mismos protocolos de conexion pero entiendo que la conexion no es en la misma plataforma servidor.
+
+HTML:
+
+1) Si, hay mas de una forma de cambiar el color de un texto.
+
+2) Si, puedo centrar un texto en forma vertical en una página web.
+
+3) ¿Section? ¿Article? no recuerdo otras...
